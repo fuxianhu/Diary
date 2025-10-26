@@ -7,3 +7,9 @@
 - 用户名：`yxxyd08`
 - 密码：`xyd1234567`
 > 尽快绑定账号
+
+- [王码编程OJ](https://ynoip.cn/)
+- [预备组题解](https://mp.weixin.qq.com/s?__biz=MzkyMzQwOTcwMQ==&mid=2247500184/)
+- [入门组题解](https://mp.weixin.qq.com/s?__biz=MzkyMzQwOTcwMQ==&mid=2247500185/)
+
+In My Computer 's Visual Studio Code, install **`Office Viewer`** extension. Now, we can see and edit `markdown`, `docx`, `xlsx` file. Very good!
