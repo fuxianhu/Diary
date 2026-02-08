@@ -2,6 +2,8 @@
 
 私有仓库
 
+一些乱七八遭的玩意
+
 信友队账号：
 - [比赛列表](https://contest.xinyoudui.com/contest-list/)
 - 用户名：`yxxyd84`
