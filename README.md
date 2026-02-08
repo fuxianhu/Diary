@@ -4,9 +4,9 @@
 
 信友队账号：
 - [比赛列表](https://contest.xinyoudui.com/contest-list/)
-- 用户名：`yxxyd08`
-- 密码：`xyd1234567`
-> 尽快绑定账号
+- 用户名：`yxxyd84`
+- 旧密码：`xyd1234567`
+- 新密码：`yxyz123456`
 
 - [王码编程OJ](https://ynoip.cn/)
 - [预备组题解](https://mp.weixin.qq.com/s?__biz=MzkyMzQwOTcwMQ==&mid=2247500184/)
